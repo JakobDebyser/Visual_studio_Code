@@ -1,4 +1,14 @@
+Heading
+=======
+sub-heading
+------
+text of the paragraph
 
-<h1>readme file
-<h2> Index.html
-<p> uitleg over het project komt hier
+another-subheader
+-----
+new paragraph
+
+*list item 1
+*list item 2
+*list item 3
+
