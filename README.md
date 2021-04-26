@@ -1,4 +1,4 @@
 
 <h1>readme file
-<h2> smaller title
-<list>list1
+<h2> Index.html
+<p> uitleg over het project komt hier
